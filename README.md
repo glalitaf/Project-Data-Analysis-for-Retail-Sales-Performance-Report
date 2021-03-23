@@ -22,8 +22,4 @@ Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahu
 2. Overall performance DQLab by subcategory product yang akan dibandingkan antara tahun 2011 dan tahun 2012
 3. Efektifitas dan efisiensi promosi yang telah dilakukan dengan menghitung burn rate dari promosi berdasarkan tahun
 4. Efektifitas dan efisiensi promosi yang telah dilakukan dengan menghitung burn rate dari promosi berdasarkan sub-category
- 
-Setelah melihat hasil analisa diatas, selanjutnya dilakukan analisa terhadap customer DQLab. Analisa dari sisi customer dengan menggunakan metrics:
-1. Analisa terhadap customer setiap tahunnya
-2. Analisa terhadap jumlah customer baru setiap tahunnya
-3. Cohort untuk mengetahui angka retention customer tahun 2009
+
