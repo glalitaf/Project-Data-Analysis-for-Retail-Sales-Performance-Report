@@ -20,6 +20,4 @@ Nama tabel yang akan digunakan pada project ini adalah dqlab_sales_store
 Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahui:
 1. Overall perofrmance DQLab Store dari tahun 2009 - 2012 untuk jumlah order dan total sales order finished
 2. Overall performance DQLab by subcategory product yang akan dibandingkan antara tahun 2011 dan tahun 2012
-3. Efektifitas dan efisiensi promosi yang telah dilakukan dengan menghitung burn rate dari promosi berdasarkan tahun
-4. Efektifitas dan efisiensi promosi yang telah dilakukan dengan menghitung burn rate dari promosi berdasarkan sub-category
-
+3. Efektifitas dan efisiensi promosi yang telah dilakukan dengan menghitung burn rate dari promosi berdasarkan tahun dan sub-category
