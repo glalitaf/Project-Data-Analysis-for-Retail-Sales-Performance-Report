@@ -28,17 +28,17 @@ Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahu
 1. Overall performance DQLab Store by Years
 
     Overall peformance DQLab Store dari tahun 2009 - 2012 untuk jumlah order dan total sales order finished. Overall performance ini diperoleh dari total penjualan (sales) dan jumlah order (number_of_order) dari tahun 2009 sampai 2012 (years). 
-    
+ <p align="center">
+  <img width="800" height="200" src="https://user-images.githubusercontent.com/80236012/112310828-97594780-8cd7-11eb-92e2-cfdd7f506ebd.png">
+</p>
  
-     ![Sales Performance by Years 2](https://user-images.githubusercontent.com/80236012/112310828-97594780-8cd7-11eb-92e2-cfdd7f506ebd.png)
-
-    
 2. Overall performance DQLab by Sub-Category product
 
     Overall performance DQLab by Sub-Category product yang akan dibandingkan antara tahun 2011 dan tahun 2012.
     
-    
-      ![Performance by Product Sub Category 2](https://user-images.githubusercontent.com/80236012/112310443-2e71cf80-8cd7-11eb-96bc-d08bef7b8c11.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80236012/112310443-2e71cf80-8cd7-11eb-96bc-d08bef7b8c11.png">
+</p>
 
 
 3. Efektifitas dan efisiensi promosi
@@ -47,9 +47,11 @@ Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahu
 
     DQLab berharap bahwa burn rate tetap berada diangka maskimum 4.5%
    
-                                          Formula untuk burn rate : (total discount / total sales) * 100
+                                   Formula untuk burn rate : (total discount / total sales) * 100
     dilakukan pembuatan Derived Tables untuk menghitung total sales (sales) dan total discount (promotion_value) berdasarkan tahun(years) dan formulasi persentase burn    rate nya (burn_rate_percentage).
     
-    
-      ![Promotion Effectiveness and Efficiency by Years 2](https://user-images.githubusercontent.com/80236012/112310598-57926000-8cd7-11eb-875e-68c4ff40a524.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80236012/112310598-57926000-8cd7-11eb-875e-68c4ff40a524.png">
+</p>
 
+     
