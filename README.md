@@ -14,7 +14,7 @@ Adapun dataset yang sudah diberikan dan akan digunakan pada project ini berisi d
 9.	Product Category
 10.	Product Sub-Category
 
-Nama tabel yang akan digunakan pada project ini adalah dqlab_sales_store
+Nama tabel yang akan digunakan pada project ini adalah dqlab_sales_store <a href="https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/blob/main/Data/Dataset/dqlab_sales_store.xlsx">link.</a>
 
 ## Data Analyzing
 
@@ -28,10 +28,16 @@ Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahu
 1. Overall performance DQLab Store by Years
 
     Overall peformance DQLab Store dari tahun 2009 - 2012 untuk jumlah order dan total sales order finished. Overall performance ini diperoleh dari total penjualan (sales) dan jumlah order (number_of_order) dari tahun 2009 sampai 2012 (years). 
+    <p align="center">
+  <img src="https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/blob/main/Data/Images/Sales%20Performance%20by%20Years.png" >
+</p>
     
 2. Overall performance DQLab by Sub-Category product
 
     Overall performance DQLab by Sub-Category product yang akan dibandingkan antara tahun 2011 dan tahun 2012.
+      <p align="center">
+  <img src="https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/blob/main/Data/Images/Producion%20sub%20category%20performance%20in%202011%202012.png" width="600" height="400" >
+</p>
 
 3. Efektifitas dan efisiensi promosi
 
@@ -41,3 +47,6 @@ Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahu
    
                                           Formula untuk burn rate : (total discount / total sales) * 100
     dilakukan pembuatan Derived Tables untuk menghitung total sales (sales) dan total discount (promotion_value) berdasarkan tahun(years) dan formulasi persentase burn    rate nya (burn_rate_percentage).
+     <p align="center">
+  <img src="https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/blob/main/Data/Images/Promotion%20Effectiveness%20and%20Efficiency%20by%20Years.png" width="600" height="400" >
+</p>
