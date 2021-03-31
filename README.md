@@ -17,8 +17,10 @@ Adapun dataset yang sudah diberikan dan akan digunakan pada project ini berisi d
 Nama tabel yang akan digunakan pada project ini adalah dqlab_sales_store <a href="https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/blob/main/Data/Dataset/dqlab_sales_store.xlsx">link.</a>
 
 ## Data Trasnformation
+Untuk melakukan analisis dan memenuhi business request diatas dataset terlebih dahulu diekstrak menggunakan SQL. 
+SQL statment untuk data  transfromasi data dapat dilihat pada <a href="https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/blob/main/Data/Dataset/dqlab_sales_store.xlsx">link</a> ini
 
-Dari data yang sudah diberikan, dari pihak manajemen DQLab store ingin mengetahui:
+Dari data yang sudah diberikan, business request DQLab store terdiri dari:
 
 1. Overall performance DQLab Store by Years
 
