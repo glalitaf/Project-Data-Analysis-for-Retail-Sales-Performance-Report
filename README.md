@@ -49,5 +49,9 @@ Untuk tahap terakhir dilakukan visualisasi data dengan mempresentasikannya dalam
   <img src="https://user-images.githubusercontent.com/80236012/113165038-da816080-926b-11eb-8a5c-aa33d0f7b6c9.png"width="600" height="400">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80236012/113165038-da816080-926b-11eb-8a5c-aa33d0f7b6c9.png](https://github.com/glalitaf/Project-Data-Analysis-for-Retail-Sales-Performance-Report/assets/80236012/7f4700ad-2125-4636-9665-1840a0d9dd11"width="600" height="400">
+</p>
+
 
      
